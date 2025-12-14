@@ -1,4 +1,5 @@
-node_modules
+dist
+node_modules/
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,jetbrains+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,jetbrains+all
